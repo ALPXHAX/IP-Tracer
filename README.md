@@ -3,9 +3,9 @@ This is a lightweight and user friendly IP-Tracer script built in Python.
 I am a fairly new developer so make sure to correct me where I am wrong.
 
 **### How to download and execute IP-TRACER?**
-`git clone https://github.com/ALPXHAX/IP-Tracer`
-`cd IP-Tracer`
-`python IP-Tracer.py`
+`git clone https://github.com/ALPXHAX/IP-Tracer`.
+`cd IP-Tracer`.
+`python IP-Tracer.py`.
 
 **The usage of IP-Tracer is very user friendly and therefore doesn't need any tutorial.**
   ** **
